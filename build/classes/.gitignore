@@ -1,8 +1,2 @@
-/bean.xml
 /cn/
-/customer.xml
-/hibernate.cfg.xml
-/linkman.xml
-/log4j.properties
-/struts.xml
-/visit.xml
+/aop.xml
